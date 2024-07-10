@@ -1,2 +1,2 @@
 # store_site
- store site
+a cool and compact  store site with django 
